@@ -4,3 +4,5 @@ Make sure you install node already.
 It automatically runs on port 81. Open the browser (Google Chrome recommended).   
 Type    
 ```http://localhost:81/```
+
+Live: https://mosaic-frontend.herokuapp.com/
