@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Make sure you install node already.    \r ```Open the terminal, run node app.js. ```   \r It automatically runs on port 81. Open the browser (Google Chrome recommended).   \r Type    \r ```http://localhost:81/```\r It is also deployed here:",
   "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
