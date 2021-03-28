@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/yiwen950725/mosaic_assignment/issues"
   },
-  "homepage": "https://github.com/yiwen950725/mosaic_assignment#readme"
+  "homepage": "https://github.com/yiwen950725/mosaic_assignment#readme",
+  "dependencies": {
+    "express":"*",
+    "body-parser":"*",
+    "bcrypt": "^0.8.5"
+ }
 }
